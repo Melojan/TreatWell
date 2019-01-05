@@ -42,7 +42,6 @@ public class BuildBox {
             throw new InvalidSizeException("Cannot have negative-sized dimensions");
         }
         
-        //Adding Constraints Later
         //Assume it only works for similar Sized Boxes
 
         if (h != w) {
