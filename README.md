@@ -11,7 +11,7 @@ In the Source Folder , I have created two Classes: BuildBox and InvalidSizeExcep
   - Negative sizes are omitted
   - Assumed that it only works for squared-shape boxes.
   
-  The class consists of two methods : checkSizes and buildBox
+  - The class consists of two methods : checkSizes and buildBox
   checkSizes : checks the constraints mentioned above and throws an IllegalSizeException when the user input is incorrect.
   buildBox : builds the box using 2D String Array and a loop going through rows and columns in this case the width and height
              starting with the Top corners to Bottom Corners to Sides.
