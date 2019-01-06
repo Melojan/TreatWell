@@ -18,7 +18,7 @@ In the Source Folder , I have created two Classes: BuildBox and InvalidSizeExcep
   
 2) InvalidSizeException
 
-- Which extends the Exception and has a constructor to determine the message.
+- Which extends Exception Class and has a constructor to determine the message.
 
 In the Test Folder, I have created one Test Class : BuildBoxTest
 
